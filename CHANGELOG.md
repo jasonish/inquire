@@ -13,6 +13,7 @@
 - Add strict clippy lints to improve code consistency and readability.
 - Expand workflow clippy task to lint all-features in workspace.
 - Add docs badge to readme.
+- Accept Ctrl-p and Ctrl-n as up and down by default in select, multi-select.
 
 ### Fixes
 
